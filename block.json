@@ -1,0 +1,18 @@
+{
+	"apiVersion": 2,
+	"name": "ideabox/toc",
+	"version": "1.0.1",
+	"title": "Table of Contents",
+	"category": "widgets",
+	"icon": "smiley",
+	"description": "Improve readability and navigation of your websites with the Table of Contents Block.",
+	"supports": {
+		"align": true,
+		"html": false
+	},
+	"textdomain": "ib-block-toc",
+	"editorScript": "file:./build/index.js",
+	"editorStyle": "file:./build/index.css",
+	"style": "file:./build/style-index.css",
+	"script": "file:./assets/js/frontend.js"
+}
